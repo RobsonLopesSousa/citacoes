@@ -1,9 +1,0 @@
-"Não há certezas, apenas oportunidades." (V de Vingança)
-<<<<<<< HEAD
-"Diga ’olá’ para meu pequeno amigo!" (Scarface) 
-=======
-"Diga ’olá’ para meu pequeno amigo!" (Scarface) 
-"Hasta la vista, baby." (Exterminador do Futuro 2 )
-" Hatuna matata "(Rei Leão)
-" Sobrevivencia dos mais fortes " ( Ditador )
->>>>>>> parent of 20ac463... Revert "Nova Frase 2"
